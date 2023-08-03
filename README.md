@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![Mauro's GitHub stats](https://github-readme-stats.vercel.app/api?username=mamico&show_icons=true)
+![Mauro's GitHub stats](https://github-readme-stats.vercel.app/api?username=mamico&show_icons=true&card_width=900)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamico&layout=compact&count_private=true)](https://github.com/mamico)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamico&layout=compact&count_private=true&card_width=900)](https://github.com/mamico)
 
 <!--
 **mamico/mamico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
